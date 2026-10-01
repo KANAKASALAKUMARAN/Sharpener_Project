@@ -2,3 +2,5 @@ Java
 C
 Javascript
 Python
+HTML
+CSS
