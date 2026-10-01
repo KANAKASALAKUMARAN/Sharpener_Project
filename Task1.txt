@@ -1,0 +1,4 @@
+*Create the Repository.
+*Then touch the code section and click the "add file" -> "create new file".
+*Then give the name with the format to the folder like "Task1.txt".
+*Then commit press commit changes -> commit changes.
