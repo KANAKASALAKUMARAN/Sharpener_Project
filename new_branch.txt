@@ -1,0 +1,5 @@
+*Create the Repository.
+*Then touch the code section and click the "add file" -> "create new file".
+*Then give the name with the format to the folder like "new_branch.txt".
+*Enter the content.
+*Then commit press "commit changes" -> "create a new branch" (branch name can be changable) ->  "commit changes".
